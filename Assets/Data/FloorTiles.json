@@ -1,0 +1,29 @@
+{
+    "tiles": [
+        {
+            "id" : "dirt_filler",
+            "weight" : 80,
+            "location" : "tiles/dirt_filler"
+        },
+        {
+            "id" : "grass_filler",
+            "weight" : 20,
+            "location" : "tiles/grass_filler"
+        },
+        {
+            "id" : "ice_filler",
+            "weight" : 60,
+            "location" : "tiles/ice_filler"
+        },
+        {
+            "id" : "sand_filler",
+            "weight" : 20,
+            "location" : "tiles/sand_filler"
+        },
+        {
+            "id" : "water_filler",
+            "weight" : 20,
+            "location" : "tiles/water_filler"
+        }
+    ]
+}

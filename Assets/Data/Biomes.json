@@ -1,0 +1,12 @@
+{
+    "biomes": [
+        {
+            "id" : "temperate",
+            "tileset" : ["dirt_filler","water_filler","grass_filler","sand_filler"]
+        },
+        {
+            "id" : "frozen_tundra",
+            "tileset" : ["ice_filler","water_filler"]
+        }
+    ]
+}
